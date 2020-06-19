@@ -1,4 +1,4 @@
-# Python for Data Analysis
+# Python for Data Analysis (by cuttlefishh)
 
 Course in data science. Learn to analyze data of all types using the Python programming language. No programming experience is necessary.
 
